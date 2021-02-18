@@ -1,8 +1,13 @@
 # 0xw0rm_Tiktok
-[N]tiktok checker username
+[N] -> Tiktok checker username
 
 
-[+]Generator List 
+[+] -> Generator List 
 
 
-[+]Proxyless
+[+] -> Proxyless
+
+
+[Group] -> https://t.me/G_0xw0rm
+
+[My] -> https://t.me/T0xw0rm
